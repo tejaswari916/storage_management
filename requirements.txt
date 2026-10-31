@@ -1,0 +1,6 @@
+streamlit
+pillow
+ImageHash
+opencv-python-headless
+numpy
+pandas
